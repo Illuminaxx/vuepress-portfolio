@@ -39,3 +39,6 @@ This project has been pre-configured to work with Forestry, just import your rep
 Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/portfolio-vuepress&provider=github&engine=vuepress)
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6a7b62a-d393-4358-9c19-4bb392e0b07b/deploy-status)](https://app.netlify.com/sites/prove-of-concept-vuepress/deploys)
