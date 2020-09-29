@@ -1,0 +1,27 @@
+{
+    "title": "Hennuyer Aurélien",
+    "description": "Personnal Portfolio",
+    "logo": "/upload/logo.svg",
+    "footer": "Ⓒ Hennuyer Aurélien",
+    "favicon": "favicon-32x32.png",
+    "navigation": [
+      {
+        "text": "Works",
+        "link": "/",
+        "position": "right",
+        "external": false
+      },
+      {
+        "text": "Say hi!",
+        "link": "mailto:hennaurelienpro@gmail.com",
+        "position": "right",
+        "external": true
+      },
+      {
+        "text": "Journal",
+        "link": "/journal/",
+        "position": "right",
+        "external": false
+      }
+    ]
+  }
