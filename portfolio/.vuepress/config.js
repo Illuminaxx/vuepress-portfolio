@@ -2,7 +2,7 @@ const config = require('../config.json');
 module.exports = {
   title: config.title,
   description: config.description,
-  base: "/",
+  dest: "public",
   themeConfig: {
     logo: config.logo,
     footer: config.footer,
